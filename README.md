@@ -36,7 +36,7 @@ The system contains around **14 database tables** responsible for storing:
 This project is created to practice:
 
 - OOP principles in real applications
-- Multi-layered system design
+- 3 Tier Architecture
 - Database relationships (FK / PK)
 - CRUD operations & stored procedures
 - Handling multi-step business workflows
@@ -44,3 +44,4 @@ This project is created to practice:
 ## ✨ Author
 
 **Mohamad Saeed Alhomsi**
+ 
