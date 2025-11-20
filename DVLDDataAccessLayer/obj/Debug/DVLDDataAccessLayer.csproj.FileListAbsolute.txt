@@ -1,0 +1,6 @@
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+C:\Abo Hadhod Courses C++\Course 19\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb

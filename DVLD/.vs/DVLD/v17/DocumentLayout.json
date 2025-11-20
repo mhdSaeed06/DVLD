@@ -1,0 +1,1845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|c:\\abo hadhod courses c\u002B\u002B\\course 19\\my project solution\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\frmreplacementforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\frmreplacementforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\frmreplacementforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\frmreplacementforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applications\\frmmanageinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applications\\frmmanageinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applications\\frmmanageinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applications\\frmmanageinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applications\\frmmanagelocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applications\\frmmanagelocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applications\\frmmanagelocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applications\\frmmanagelocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\drivng license services\\add new international license\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\drivng license services\\add new international license\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\drivng license services\\add new international license\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\drivng license services\\add new international license\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\drivers\\frmshowdriverslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:drivers\\frmshowdriverslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrldrivinglicenseapplnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrldrivinglicenseapplnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrldrivinglicenseapplnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrldrivinglicenseapplnfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrlapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrlapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\ctrlapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\ctrlapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\ctrlpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\ctrlpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmtestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmtestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applicationtypes\\frmeditapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applicationtypes\\frmeditapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applicationtypes\\frmmanageapplicationstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applicationtypes\\frmmanageapplicationstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\ctrlpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\ctrlpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\drivng license services\\add new local driving license\\frmaddnewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\drivng license services\\add new local driving license\\frmaddnewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\drivers\\frmshowdriverslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:drivers\\frmshowdriverslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage test type\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage test type\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmtestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmtestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmscheduletest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmscheduletest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applicationtypes\\frmeditapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applicationtypes\\frmeditapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage appointments\\frmtestappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage appointments\\frmtestappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\drivng license services\\add new local driving license\\frmaddnewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\drivng license services\\add new local driving license\\frmaddnewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmshowuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\clsformsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:clsformsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage applicationtypes\\frmmanageapplicationstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage applicationtypes\\frmmanageapplicationstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage test type\\frmmanageteststypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage test type\\frmmanageteststypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmaddedituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmaddedituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage test type\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage test type\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\applications\\manage test type\\frmmanageteststypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:applications\\manage test type\\frmmanageteststypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\ctrlpersoninformation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\ctrlpersoninformation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\user management\\frmchangeuserpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:user management\\frmchangeuserpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmaddeditperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmaddeditperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\frmpersoninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\frmpersoninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\people management\\ctrlpersoninformation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:people management\\ctrlpersoninformation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlPersonInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E35E405-9090-422F-947E-311AF9B1FC4E}|DVLDPresentationLayer.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlFindPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\applications\\drivng license services\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\applications\\drivng license services\\frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmIssueDrivingLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDetainedLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDetainedLicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsInternationalLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsInternationalLicenseDataAcces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDriverDataAccessLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLocalDrivingLicenseApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLocalDrivingLicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsPersonDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicenseClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseClassDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplicationType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationTypesDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestAppointmentDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestTypeDataAccees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsCountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsUserDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsCountryDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AgIAACUAAAAAmZmZmZkJwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:50:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "clsDetainedLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:49:22.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:56:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:59:19.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Detain License\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Detain License\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Detain License\\frmDetainLicense.cs",
+              "RelativeToolTip": "Applications\\Detain License\\frmDetainLicense.cs",
+              "ViewState": "AgIAAE8AAAAAMzMzMzMRwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:27:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Detain License\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Detain License\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Detain License\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Detain License\\frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:24:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmShowInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\frmShowInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\frmShowInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:07:04.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReplacementForLostOrDamaged.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmReplacementForLostOrDamaged.cs",
+              "RelativeDocumentMoniker": "Applications\\frmReplacementForLostOrDamaged.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmReplacementForLostOrDamaged.cs",
+              "RelativeToolTip": "Applications\\frmReplacementForLostOrDamaged.cs",
+              "ViewState": "AgIAAA8AAAAANDMzMzMbwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:27:10.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmShowLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\frmShowLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\frmShowLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\frmShowLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:55:44.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReplacementForLostOrDamaged.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmReplacementForLostOrDamaged.cs",
+              "RelativeDocumentMoniker": "Applications\\frmReplacementForLostOrDamaged.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\frmReplacementForLostOrDamaged.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\frmReplacementForLostOrDamaged.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:25:23.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwKEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:38:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "clsApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsApplicationDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsApplicationDataAccess.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAA0wGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:08:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmManageLocalDrivingLicenseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:54:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmManageInternationalLicenses.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "RelativeToolTip": "Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:15:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmManageInternationalLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Applications\\frmManageInternationalLicenses.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Applications\\frmManageInternationalLicenses.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Applications\\frmManageInternationalLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:02:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmLicenseHistory.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:47:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmManageLocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "Applications\\Manage Applications\\frmManageLocalDrivingLicenseApplications.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAA3wH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:02:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsInternationalLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsInternationalLicense.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwGgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:14:43.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmShowInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\frmShowInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Applications\\frmShowInternationalLicenseInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:13:11.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "clsInternationalLicenseDataAcces.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsInternationalLicenseDataAcces.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsInternationalLicenseDataAcces.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsInternationalLicenseDataAcces.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsInternationalLicenseDataAcces.cs",
+              "ViewState": "AgIAALQAAABgZmZmZmYswL0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:57:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAddNewInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "RelativeToolTip": "Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:35:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Applications\\ctrlInternationalLicenseInfo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAawB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:42:25.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddNewInternationalLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\Add New International License\\frmAddNewInternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:17:33.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ctrlDrivingLicenseApplnfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\ctrlDrivingLicenseApplnfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\ctrlDrivingLicenseApplnfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:32:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmShowDriversList.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Drivers\\frmShowDriversList.cs",
+              "RelativeDocumentMoniker": "Drivers\\frmShowDriversList.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Drivers\\frmShowDriversList.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Drivers\\frmShowDriversList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:13:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ctrlDrivingLicenseApplnfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "RelativeToolTip": "Applications\\ctrlDrivingLicenseApplnfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:43:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ctrlInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\ctrlInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\ctrlInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:16:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmShowLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:01:22.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\ctrlDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\ctrlDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:02:32.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ctrlApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlApplicationInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\ctrlApplicationInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\ctrlApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:52:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmLicenseHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:46:57.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsLicense.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:46:46.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "clsLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsLicenseDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsLicenseDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:58:10.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsApplication.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplication.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsApplication.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:58:57.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "clsDriverDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDriverDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsDriverDataAccessLayer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsDriverDataAccessLayer.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsDriverDataAccessLayer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:52:19.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "clsLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA3wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:14:38.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ctrlDriverLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlDriverLicenseInfo.cs",
+              "RelativeToolTip": "Applications\\ctrlDriverLicenseInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:03:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "clsLocalDrivingLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLocalDrivingLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsLocalDrivingLicenseDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLocalDrivingLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsLocalDrivingLicenseDataAccess.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAlwEMBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:00:09.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ctrlApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\ctrlApplicationInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\ctrlApplicationInfo.cs",
+              "RelativeToolTip": "Applications\\ctrlApplicationInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA3wB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:13:37.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmAddEditUser.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmAddEditUser.cs",
+              "RelativeDocumentMoniker": "User Management\\frmAddEditUser.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmAddEditUser.cs",
+              "RelativeToolTip": "User Management\\frmAddEditUser.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:11:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmAddEditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmAddEditUser.cs",
+              "RelativeDocumentMoniker": "User Management\\frmAddEditUser.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\frmAddEditUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\frmAddEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:27:28.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAddEditPerson.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmAddEditPerson.cs",
+              "RelativeDocumentMoniker": "People Management\\frmAddEditPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmAddEditPerson.cs",
+              "RelativeToolTip": "People Management\\frmAddEditPerson.cs",
+              "ViewState": "AgIAAEYBAAAAzczMzMwowPoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:46:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddEditPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmAddEditPerson.cs",
+              "RelativeDocumentMoniker": "People Management\\frmAddEditPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\People Management\\frmAddEditPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\People Management\\frmAddEditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:23:53.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ctrlUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\ctrlUserInfo.cs",
+              "RelativeDocumentMoniker": "User Management\\ctrlUserInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\ctrlUserInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\ctrlUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:36:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ctrlPersonInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.cs",
+              "RelativeDocumentMoniker": "People Management\\ctrlPersonInformation.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\People Management\\ctrlPersonInformation.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\People Management\\ctrlPersonInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:08:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmUserList.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmUserList.cs",
+              "RelativeDocumentMoniker": "User Management\\frmUserList.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\frmUserList.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\frmUserList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:26:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmTestAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:21:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmTakeTest.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Appointments\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Appointments\\frmTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:50:28.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:42:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmEditApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:15:49.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmManageApplicationsTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:15:50.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ctrlPersonInformation.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.cs",
+              "RelativeDocumentMoniker": "People Management\\ctrlPersonInformation.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.cs",
+              "RelativeToolTip": "People Management\\ctrlPersonInformation.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:08:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmShowLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmShowLicenseInfo.cs",
+              "ViewState": "AgIAAAwAAACAZmZmZmY0wB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:33:13.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsUser.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:24:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ctrlPersonInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:02:44.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ctrlPersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.cs",
+              "ToolTip": "C:\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\IT_TECHNICAL\\Desktop\\ctrlPersonInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:59:57.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ctrlPersonInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlPersonInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\ctrlPersonInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlPersonInfo.cs",
+              "RelativeToolTip": "..\\..\\DVLD\\ctrlPersonInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:01:41.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmAddNewLocalDrivingLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:07:15.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ctrlFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlFindPerson.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\ctrlFindPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlFindPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\ctrlFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:52:13.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmChangeUserPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "User Management\\frmChangeUserPassword.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\frmChangeUserPassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\frmChangeUserPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:47:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmIssueDrivingLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmIssueDrivingLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmIssueDrivingLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Drivng License Services\\frmIssueDrivingLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Drivng License Services\\frmIssueDrivingLicense.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:49:57.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmShowDriversList.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Drivers\\frmShowDriversList.cs",
+              "RelativeDocumentMoniker": "Drivers\\frmShowDriversList.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Drivers\\frmShowDriversList.cs",
+              "RelativeToolTip": "Drivers\\frmShowDriversList.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:45:30.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmUserList.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmUserList.cs",
+              "RelativeDocumentMoniker": "User Management\\frmUserList.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmUserList.cs",
+              "RelativeToolTip": "User Management\\frmUserList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:56:02.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsDriver.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsDriver.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsDriver.cs",
+              "ViewState": "AgIAAD0AAAAwMzMzMzMwwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:20:17.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmShowUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmShowUserInfo.cs",
+              "RelativeDocumentMoniker": "User Management\\frmShowUserInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\frmShowUserInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\frmShowUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:49:27.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmScheduleTest.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "RelativeToolTip": "Applications\\Manage Appointments\\frmScheduleTest.cs",
+              "ViewState": "AgIAAIcAAACAzMzMzMwiwJcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:39:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmEditTestType.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmEditTestType.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Test Type\\frmEditTestType.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Test Type\\frmEditTestType.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Test Type\\frmEditTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:06:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswHcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:31:10.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "clsPersonDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsPersonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsPersonDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsPersonDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsPersonDataAccess.cs",
+              "ViewState": "AgIAACwBAACAMzMzMzMrwBEBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:53:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmTakeTest.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmTakeTest.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTakeTest.cs",
+              "RelativeToolTip": "Applications\\Manage Appointments\\frmTakeTest.cs",
+              "ViewState": "AgIAAKcAAACAzMzMzMwrwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:08:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "clsTestDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsTestDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsTestDataAccess.cs",
+              "ViewState": "AgIAAGwAAACAZmZmZmYvwGUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:03:37.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "clsTestAppointment.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsTestAppointment.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestAppointment.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsTestAppointment.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAlwGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:51:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsTest.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTest.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA4wCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:27:12.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsLicenseClass.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsLicenseClass.cs",
+              "ViewState": "AgIAACwAAADgzMzMzMwswD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T20:01:26.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "clsLicenseClassDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseClassDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsLicenseClassDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsLicenseClassDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsLicenseClassDataAccess.cs",
+              "ViewState": "AgIAAAwAAAC8zMzMzMw7wIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:59:04.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmTestAppointments.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "RelativeToolTip": "Applications\\Manage Appointments\\frmTestAppointments.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T12:23:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmScheduleTest.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmScheduleTest.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmScheduleTest.Designer.cs",
+              "RelativeToolTip": "Applications\\Manage Appointments\\frmScheduleTest.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:44:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsApplicationType.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsApplicationType.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:02:25.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "clsApplicationTypesDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationTypesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsApplicationTypesDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsApplicationTypesDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsApplicationTypesDataAccess.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAlwLMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:00:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "clsTestType.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestType.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsTestType.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsTestType.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsTestType.cs",
+              "ViewState": "AgIAACQAAABA//////8TwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:33:54.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "clsTestAppointmentDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestAppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsTestAppointmentDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestAppointmentDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsTestAppointmentDataAccess.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAlwIMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:00:22.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmEditApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "RelativeToolTip": "Applications\\Manage ApplicationTypes\\frmEditApplicationTypes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:20:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "clsTestTypeDataAccees.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestTypeDataAccees.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsTestTypeDataAccees.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsTestTypeDataAccees.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsTestTypeDataAccees.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAWwKUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:35:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "clsCountry.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsCountry.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDBusinessLayer\\clsCountry.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDBusinessLayer\\clsCountry.cs",
+              "RelativeToolTip": "..\\..\\DVLDBusinessLayer\\clsCountry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:13:04.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmTestAppointments.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Appointments\\frmTestAppointments.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Appointments\\frmTestAppointments.Designer.cs",
+              "RelativeToolTip": "Applications\\Manage Appointments\\frmTestAppointments.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:09:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "clsUserDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsUserDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsUserDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsUserDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsUserDataAccess.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAAACcBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:24:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ctrlUserInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\ctrlUserInfo.cs",
+              "RelativeDocumentMoniker": "User Management\\ctrlUserInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\ctrlUserInfo.cs",
+              "RelativeToolTip": "User Management\\ctrlUserInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:39:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPeople.cs",
+              "RelativeDocumentMoniker": "People Management\\frmPeople.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\People Management\\frmPeople.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\People Management\\frmPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:44:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmPeople.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPeople.cs",
+              "RelativeDocumentMoniker": "People Management\\frmPeople.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPeople.cs",
+              "RelativeToolTip": "People Management\\frmPeople.cs",
+              "ViewState": "AgIAACAAAACAMzMzMzMhwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:48:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmAddNewLocalDrivingLicense.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "RelativeToolTip": "Applications\\Drivng License Services\\Add New Local Driving License\\frmAddNewLocalDrivingLicense.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:10:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmLogin.cs",
+              "RelativeDocumentMoniker": "User Management\\frmLogin.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmLogin.cs",
+              "RelativeToolTip": "User Management\\frmLogin.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:01:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsFormSettings.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\clsFormSettings.cs",
+              "RelativeDocumentMoniker": "clsFormSettings.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\clsFormSettings.cs",
+              "RelativeToolTip": "clsFormSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:59:43.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmShowUserInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmShowUserInfo.cs",
+              "RelativeDocumentMoniker": "User Management\\frmShowUserInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmShowUserInfo.cs",
+              "RelativeToolTip": "User Management\\frmShowUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:52:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmLogin.cs",
+              "RelativeDocumentMoniker": "User Management\\frmLogin.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\User Management\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\User Management\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:49:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "clsCountryDataAccess.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsCountryDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLDDataAccessLayer\\clsCountryDataAccess.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLDDataAccessLayer\\clsCountryDataAccess.cs",
+              "RelativeToolTip": "..\\..\\DVLDDataAccessLayer\\clsCountryDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:16:40.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmManageApplicationsTypes.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "RelativeToolTip": "Applications\\Manage ApplicationTypes\\frmManageApplicationsTypes.cs",
+              "ViewState": "AgIAABcAAAAAzMzMzMwEwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:59:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ctrlFindPerson.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlFindPerson.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD\\ctrlFindPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\ctrlFindPerson.cs",
+              "RelativeToolTip": "..\\..\\DVLD\\ctrlFindPerson.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:53:26.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmManageTestsTypes.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "RelativeToolTip": "Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "ViewState": "AgIAAAgAAADgzMzMzMwiwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:56:29.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmAddEditUser.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmAddEditUser.Designer.cs",
+              "RelativeDocumentMoniker": "User Management\\frmAddEditUser.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmAddEditUser.Designer.cs",
+              "RelativeToolTip": "User Management\\frmAddEditUser.Designer.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAswJwBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:48:14.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmEditTestType.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmEditTestType.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Test Type\\frmEditTestType.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmEditTestType.cs",
+              "RelativeToolTip": "Applications\\Manage Test Type\\frmEditTestType.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:06:57.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmManageTestsTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Manage Test Type\\frmManageTestsTypes.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\Applications\\Manage Test Type\\frmManageTestsTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Manage Test Type\\frmManageTestsTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:32:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmChangeUserPassword.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "User Management\\frmChangeUserPassword.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmChangeUserPassword.cs",
+              "RelativeToolTip": "User Management\\frmChangeUserPassword.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAawFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:50:40.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPersonInfo.cs",
+              "RelativeDocumentMoniker": "People Management\\frmPersonInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\People Management\\frmPersonInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\People Management\\frmPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:40:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ctrlPersonInformation.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.Designer.cs",
+              "RelativeDocumentMoniker": "People Management\\ctrlPersonInformation.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.Designer.cs",
+              "RelativeToolTip": "People Management\\ctrlPersonInformation.Designer.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAAwNcBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:02:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmChangeUserPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmChangeUserPassword.Designer.cs",
+              "RelativeDocumentMoniker": "User Management\\frmChangeUserPassword.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\User Management\\frmChangeUserPassword.Designer.cs",
+              "RelativeToolTip": "User Management\\frmChangeUserPassword.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAWwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:10:31.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmAddEditPerson.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmAddEditPerson.Designer.cs",
+              "RelativeDocumentMoniker": "People Management\\frmAddEditPerson.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmAddEditPerson.Designer.cs",
+              "RelativeToolTip": "People Management\\frmAddEditPerson.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:24:14.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmPersonInfo.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPersonInfo.cs",
+              "RelativeDocumentMoniker": "People Management\\frmPersonInfo.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPersonInfo.cs",
+              "RelativeToolTip": "People Management\\frmPersonInfo.cs",
+              "ViewState": "AgIAABUAAACgmZmZmZknwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:54:49.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmPersonInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPersonInfo.Designer.cs",
+              "RelativeDocumentMoniker": "People Management\\frmPersonInfo.Designer.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\frmPersonInfo.Designer.cs",
+              "RelativeToolTip": "People Management\\frmPersonInfo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:28:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ctrlPersonInformation.resx",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.resx",
+              "RelativeDocumentMoniker": "People Management\\ctrlPersonInformation.resx",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\People Management\\ctrlPersonInformation.resx",
+              "RelativeToolTip": "People Management\\ctrlPersonInformation.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-11T13:44:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmAddNewPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmAddNewPerson.cs",
+              "RelativeDocumentMoniker": "frmAddNewPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\frmAddNewPerson.cs [Design]*",
+              "RelativeToolTip": "..\\..\\DVLD\\frmAddNewPerson.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:36:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmAddNewPerson.cs",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\frmAddNewPerson.cs",
+              "RelativeDocumentMoniker": "frmAddNewPerson.cs",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\DVLD\\frmAddNewPerson.cs*",
+              "RelativeToolTip": "..\\..\\DVLD\\frmAddNewPerson.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:50:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Abo Hadhod Courses C\u002B\u002B\\Course 19\\My Project Solution\\DVLD\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwIYBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-08T12:34:26.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.dll
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Abo Hadhod Courses C++\Course 19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
