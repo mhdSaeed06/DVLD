@@ -38,7 +38,7 @@ This project is created to practice:
 - OOP principles in real applications
 - 3 Tier Architecture
 - Database relationships (FK / PK)
-- CRUD operations & stored procedures
+- CRUD operations
 - Handling multi-step business workflows
 
 ## ✨ Author
